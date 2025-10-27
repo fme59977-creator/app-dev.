@@ -23,6 +23,7 @@ My first repository. JEM
 | Light Side | Dark Side |
 
 |--------------------|-------------------|
+
 | Jedi Order | Sith Lords |
 | Rebel Alliance | Galactic Empire |
 | The Resistance | First Order |
